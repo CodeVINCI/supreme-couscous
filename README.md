@@ -2,7 +2,7 @@
 Lets finish this as soon as possible.
 
 # A word about what we are trying to do.
-
+# SMVDU
 We here are trying to develop a web application for students of Shri Mata Vaishno Devi University where they can share their problems, views on others problems, can conduct surveys and more related things.
 
 This is being done so that we can have a platform where people can share their problems or complaints and can be readdressed by the university administration quickly.
